@@ -1,0 +1,6 @@
+{
+  "name": "CreatorCut - AI Video Clipping & Repurposing Studio",
+  "description": "Transform long-form videos and podcasts into viral short clips for TikTok, Reels, and YouTube Shorts with AI auto-reframing, multilingual dynamic captions, and smart editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
